@@ -1,0 +1,8 @@
+LDR LIGHT
+1   0
+0   1
+1   0
+Simulation Result:
+
+ldr = 1 (daylight) → light = 0 (OFF)
+ldr = 0 (night) → light = 1 (ON)
